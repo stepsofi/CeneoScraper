@@ -1,6 +1,5 @@
 # CeneoScraper
-## Etap 1 - pobranie opinii
-### Etap 1.1 - pobranie składowych pojedynczej opinii
+## Etap 1 - Ekstrakcja pojedynczej opinii o produkcie, którego kod będzie wpisany w kodzie programu.
 - pobranie kodu pojedynczej strony z opiniami o produkcie 
 - wydobycie z kodu strony fragmentu odpowiadającego pojedynczej opinii
 - zapisanie do pojedynczych zmiennych wartośći skladowych opinii
@@ -23,4 +22,4 @@
 |Dla ilu osób przydatna|span[id^="votes-yes"]|useful|int|
 |Dla ilu osób nieprzydatna|span[id^="votes-no"]|useless|int|
 
-### Etap 2 - Ekstrakcja wszystkich opinii 
+## Etap 2 - Ekstrakcja wszystkich opinii o produkcie z pojedynczej strony.
