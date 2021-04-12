@@ -6,7 +6,6 @@ respons = requests.get ("https://www.ceneo.pl/32622086#tab=reviews")
 page=2
 
 while respons : 
-    print(page)
 
     pageDOM= BeautifulSoup(respons.text, 'html.parser')
 
@@ -61,4 +60,8 @@ while respons :
         page+=1
     else: 
         break
+
+with open("./opinions/32622086.json", "w", encoding="UTF-8") as f:
+    json.dump (opinionsList, f, indent=4 , ensure_ascii=False)
+
 #print(json.dumps(opinionDict, indent=4, ensure_ascii=False))
