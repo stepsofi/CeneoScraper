@@ -23,3 +23,14 @@
 |Dla ilu osób nieprzydatna|span[id^="votes-no"]|useless|int|
 
 ## Etap 2 - Ekstrakcja wszystkich opinii o produkcie z pojedynczej strony.
+- utworzenie słownika do przechowywania wszystkich składowych pojedynczej opinii 
+- utworzenie listy, do której będą dodawane słowniki reprezentjące pojedyncze opinie 
+-dodanie pętli, w której pobierane były składowe kolejnych opinii z pojedynczej strony 
+## Etap 3 - Ekstrakcja wszystkich opinii o produkcie z wszystkich stron 
+-dodanie pętli, w której:
+* pobierana jest strona z opiniami
+* dla każdej opinii na stronie pobiearane są jej składowe 
+* sprawdzane jest, czy istnieje kolejna strona z opiniami, ktore powinny zostać pobrane 
+- zapisania wszystkich opinii o produkcie do pliku .json 
+## Etap 4 - Refaktoryzacja kodu
+-parametryzacja identyfikatora opinii
