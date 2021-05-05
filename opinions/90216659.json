@@ -1,9 +1,8 @@
 [
     {
-        "opinionId": "12516534",
         "author": "Bartosz",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Telefon wygląda świetnie. Design jest o niebo lepszy od Xiaomi czy Huawei nad którymi się zastanawiałem. Ogólnie dla sprawności działania trzeba powyłączać zbędne aplikacje szczególnie te od Samsunga ale potem działa ok. Bateria to 1 -1,5 dnia w miarę intensywnej pracy. Ekran super amoled to klasa sama w sobie. Rozpoznawanie twarzy i odciski palca działają ok - fajna sprawa. Aparat robi bardzo dobre zdjęcia. Docelowo może brakować jedynie RAM (jest 4 a przydało by się 6). Ogólnie po dwóch dniach użytkowania dla mnie jest bardzo dobrze.",
         "pros": [
             "czas pracy na baterii",
@@ -12,17 +11,17 @@
             "wygląd"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-05-26 10:02:59",
         "purchaseDate": "2020-05-21 17:05:14",
-        "useful": 28,
-        "useless": 19
+        "useful": "28",
+        "useless": "20",
+        "opinionId": "12516534"
     },
     {
-        "opinionId": "13564713",
         "author": "a...4",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Oryginalny kolor, to mój kolejny Samsung, z którego jestem bardzo zadowolona. Polecam!",
         "pros": [
             "czas pracy na baterii",
@@ -31,17 +30,17 @@
             "wygląd"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-12-12 11:10:00",
         "purchaseDate": "2020-12-02 15:20:59",
-        "useful": 5,
-        "useless": 3
+        "useful": "6",
+        "useless": "3",
+        "opinionId": "13564713"
     },
     {
-        "opinionId": "12731079",
         "author": "w...i",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Telefon mam drugi tydzień, sprawuje się bardzo dobrze, bateria trzyma długo, aparat robi piękne zdjęcia za dnia, ogólnie telefon chodzi płynnie",
         "pros": [
             "czas pracy na baterii",
@@ -50,60 +49,60 @@
             "wygląd"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-06-29 18:05:45",
         "purchaseDate": "2020-06-12 22:20:19",
-        "useful": 8,
-        "useless": 3
+        "useful": "8",
+        "useless": "3",
+        "opinionId": "12731079"
     },
     {
-        "opinionId": "13268393",
         "author": "I...O",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "best",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-10-24 16:31:08",
         "purchaseDate": "2020-10-12 17:46:01",
-        "useful": 7,
-        "useless": 1
+        "useful": "7",
+        "useless": "1",
+        "opinionId": "13268393"
     },
     {
-        "opinionId": "11926183",
         "author": "Użytkownik Ceneo",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Smartfon A51 po miesiacu uzytkowania : bardzo dobry procesor, bateria trzyma okolo 5 dni , aparat z dobra rozdzielczoscia zdjecia i filmy bardzo dobrej jakosci. Troche przeladowany aplikacjami .",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-03-17 21:18:44",
         "purchaseDate": "2020-02-22 19:25:46",
-        "useful": 13,
-        "useless": 20
+        "useful": "13",
+        "useless": "21",
+        "opinionId": "11926183"
     },
     {
-        "opinionId": "11854335",
         "author": "Użytkownik Ceneo",
-        "rcmd": true,
-        "stars": 5.0,
-        "content": "Jak dla mnie,osoby nieco starszej,jest świetny.Łatwy w obsłudze,piękny. Polecam zakup.Cena adekwatna do jakości.",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Jak dla mnie,osoby nieco starszej,jest\nświetny.Łatwy w obsłudze,piękny.\nPolecam zakup.Cena adekwatna do\njakości.",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-03-05 13:40:56",
         "purchaseDate": "2020-03-02 09:55:06",
-        "useful": 5,
-        "useless": 2
+        "useful": "5",
+        "useless": "2",
+        "opinionId": "11854335"
     },
     {
-        "opinionId": "13496576",
         "author": "i...h",
-        "rcmd": true,
-        "stars": 4.0,
-        "content": "Wszystko w porządku, zamówienie zgodne z opisem. Jedyny minus za czytnik linii papilarnych, dość słaby w tym modelu",
+        "rcmd": "Polecam",
+        "stars": "4/5",
+        "content": "Wszystko w porządku, zamówienie zgodne z opisem.\nJedyny minus za czytnik linii papilarnych, dość słaby w tym modelu",
         "pros": [
             "czas pracy na baterii",
             "funkcjonalność",
@@ -111,17 +110,17 @@
             "wygląd"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-12-03 12:58:39",
         "purchaseDate": "2020-11-24 17:29:28",
-        "useful": 1,
-        "useless": 0
+        "useful": "1",
+        "useless": "0",
+        "opinionId": "13496576"
     },
     {
-        "opinionId": "13316734",
         "author": "p...2",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Świetny telefon za sensowną cenę. Bardzo dobry aparat, bateria długo trzyma, intuicyjna obsługa.",
         "pros": [
             "czas pracy na baterii",
@@ -130,17 +129,17 @@
             "wygląd"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-11-03 18:26:11",
         "purchaseDate": "2020-10-30 12:20:06",
-        "useful": 4,
-        "useless": 2
+        "useful": "4",
+        "useless": "2",
+        "opinionId": "13316734"
     },
     {
-        "opinionId": "12497951",
         "author": "J...n",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Telefon w tej cenie z dobrymi parametrami, super aparat.",
         "pros": [
             "czas pracy na baterii",
@@ -149,31 +148,31 @@
             "wygląd"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-05-22 18:35:47",
         "purchaseDate": "2020-05-20 10:11:12",
-        "useful": 2,
-        "useless": 2
+        "useful": "2",
+        "useless": "2",
+        "opinionId": "12497951"
     },
     {
-        "opinionId": "12220265",
         "author": "Użytkownik Ceneo",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Wszystko śmiga doskonale.  To już kolejny mój telefon...zawsze wybór pada na Samsuga i nie mam żadnych wątpliwości że to najlewybór.",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-04-22 18:16:01",
         "purchaseDate": "2020-04-19 19:01:22",
-        "useful": 4,
-        "useless": 7
+        "useful": "4",
+        "useless": "7",
+        "opinionId": "12220265"
     },
     {
-        "opinionId": "13474195",
         "author": "a...k",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Jak za ta cene  telefon  bardzo dobry. Bateria 2dni non stop uzytkowany. Polecam.",
         "pros": [
             "czas pracy na baterii",
@@ -182,17 +181,17 @@
             "wygląd"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-11-30 21:29:23",
         "purchaseDate": "2020-11-04 08:47:33",
-        "useful": 1,
-        "useless": 0
+        "useful": "1",
+        "useless": "0",
+        "opinionId": "13474195"
     },
     {
-        "opinionId": "13656437",
         "author": "Александр",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Заказал на сайте. Пришёл, оплатил, забрал. Быстро и без лишних вопросов. Супер!",
         "pros": [
             "czas pracy na baterii",
@@ -201,31 +200,31 @@
             "wygląd"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-12-27 17:52:48",
         "purchaseDate": "2020-11-27 09:37:28",
-        "useful": 1,
-        "useless": 1
+        "useful": "1",
+        "useless": "1",
+        "opinionId": "13656437"
     },
     {
-        "opinionId": "13481740",
         "author": "d...7",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Wszystko w porządku, produkt zgodny z opisem. Kontakt ze sklepem bardzo dobry.",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-12-01 20:21:25",
         "purchaseDate": "2020-11-21 19:11:19",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13481740"
     },
     {
-        "opinionId": "13513643",
         "author": "m...n",
-        "rcmd": true,
-        "stars": 4.0,
+        "rcmd": "Polecam",
+        "stars": "4/5",
         "content": "Telefon Bardzo Dobry robi Extra zdjęcia.Jedyny minus to Beznadziejna krutka ładowarka,wyjście z telefonu USB typu C!Po co takie głupie wejście???",
         "pros": [
             "czas pracy na baterii",
@@ -235,31 +234,31 @@
         "cons": [
             "łatwość obsługi"
         ],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-12-05 21:45:34",
         "purchaseDate": "2020-12-02 12:32:17",
-        "useful": 0,
-        "useless": 7
+        "useful": "0",
+        "useless": "7",
+        "opinionId": "13513643"
     },
     {
-        "opinionId": "13481585",
         "author": "a...i",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Bardzo wygodny, bateria b.dobra.menu czytelne i łatwe w obsłudze. Polecam",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-12-01 20:04:41",
         "purchaseDate": "2020-11-12 17:46:17",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13481585"
     },
     {
-        "opinionId": "13982149",
         "author": "a...3",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Bardzo dobry; to już drugi mój zakup. Tym razem jako prezent dla męża.",
         "pros": [
             "czas pracy na baterii",
@@ -267,17 +266,17 @@
             "wygląd"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2021-02-18 21:38:34",
         "purchaseDate": "2021-02-02 22:35:04",
-        "useful": 0,
-        "useless": 0
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13982149"
     },
     {
-        "opinionId": "13646009",
         "author": "m...6",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Kupiłem nie dla siebie a dla kogoś. Nie widziałem towaru. Ten ktoś zadowolony z towaru",
         "pros": [
             "czas pracy na baterii",
@@ -286,45 +285,45 @@
             "wygląd"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-12-25 03:29:04",
         "purchaseDate": "2020-12-20 23:50:15",
-        "useful": 0,
-        "useless": 2
+        "useful": "0",
+        "useless": "2",
+        "opinionId": "13646009"
     },
     {
-        "opinionId": "13676227",
         "author": "e...m",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Babcia jest b.zadowolona. Nadmienię że sprytna babcia",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-12-29 23:39:47",
         "purchaseDate": "2020-12-12 20:15:18",
-        "useful": 1,
-        "useless": 0
+        "useful": "1",
+        "useless": "0",
+        "opinionId": "13676227"
     },
     {
-        "opinionId": "12328615",
         "author": "Użytkownik Ceneo",
-        "rcmd": true,
-        "stars": 5.0,
+        "rcmd": "Polecam",
+        "stars": "5/5",
         "content": "Otrzymałem taki jak zamówiłem, ale trudno oceniać po 2 tygodniach korzystania.",
         "pros": [],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-05-04 13:41:54",
         "purchaseDate": "2020-04-21 22:04:30",
-        "useful": 1,
-        "useless": 3
+        "useful": "1",
+        "useless": "3",
+        "opinionId": "12328615"
     },
     {
-        "opinionId": "12591315",
         "author": "g...k",
-        "rcmd": true,
-        "stars": 4.5,
+        "rcmd": "Polecam",
+        "stars": "4,5/5",
         "content": "Nie rozczarowałem się. Jest dobrze. Raz na kilka dni potrafi się przyciąć na sekundę.",
         "pros": [
             "czas pracy na baterii",
@@ -333,10 +332,673 @@
             "wygląd"
         ],
         "cons": [],
-        "purchased": true,
+        "purchased": "Opinia potwierdzona zakupem",
         "publishDate": "2020-06-04 20:53:09",
         "purchaseDate": "2020-05-23 16:20:16",
-        "useful": 0,
-        "useless": 3
+        "useful": "0",
+        "useless": "3",
+        "opinionId": "12591315"
+    },
+    {
+        "author": "m...i",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Bardzo dobry wybór",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-05-25 11:00:51",
+        "purchaseDate": "2020-05-20 10:21:05",
+        "useful": "0",
+        "useless": "2",
+        "opinionId": "12510018"
+    },
+    {
+        "author": "k...k",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Telefon w dobrej cenie i jakości,  polecam",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2021-04-27 11:35:40",
+        "purchaseDate": "2021-04-18 13:00:49",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "14364227"
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Super zdjęcia, bardzo wydajny, duży ekran.",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-03-29 17:57:01",
+        "purchaseDate": "2020-02-27 12:21:21",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12013317"
+    },
+    {
+        "author": "m...k",
+        "rcmd": "Polecam",
+        "stars": "4,5/5",
+        "content": "dobry telefon i aparat za przyzwoitą cenę",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-10-28 10:30:03",
+        "purchaseDate": "2020-10-19 18:22:25",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13284367"
+    },
+    {
+        "author": "z...7",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Rewelacyjny produkt, aparat spełnia oczekiwania!",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-10-15 19:49:30",
+        "purchaseDate": "2020-09-03 12:13:39",
+        "useful": "0",
+        "useless": "1",
+        "opinionId": "13221152"
+    },
+    {
+        "author": "e...9",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Super sprzedawca, ekspresowa dostawa.",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-11-18 16:10:06",
+        "purchaseDate": "2020-11-07 17:32:04",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13400812"
+    },
+    {
+        "author": "r...5",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Bardzo fajny produkt i działa dobrze",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-10-21 00:55:59",
+        "purchaseDate": "2020-10-11 13:00:11",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13246129"
+    },
+    {
+        "author": "p...i",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Do tej pory sprawuje się bez zarzutu",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-06-29 08:08:49",
+        "purchaseDate": "2020-06-24 10:02:25",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12728235"
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "rcmd": "Polecam",
+        "stars": "4,5/5",
+        "content": "Telefon optymalnie dobrany do moich potrzeb.",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-01-29 10:37:28",
+        "purchaseDate": "2020-01-20 08:22:57",
+        "useful": "4",
+        "useless": "5",
+        "opinionId": "11657540"
+    },
+    {
+        "author": "d...4",
+        "rcmd": "Polecam",
+        "stars": "4/5",
+        "content": "Telefon jest ok. Chociaż mógłby być lepiej wykonany...",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-07-01 23:05:14",
+        "purchaseDate": "2020-06-26 13:33:24",
+        "useful": "0",
+        "useless": "2",
+        "opinionId": "12747307"
+    },
+    {
+        "author": "m...a",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Świetny wygląd. Dobry aparat fotograficzny.",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-06-05 22:57:47",
+        "purchaseDate": "2020-05-20 22:33:23",
+        "useful": "0",
+        "useless": "1",
+        "opinionId": "12601045"
+    },
+    {
+        "author": "l...7",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Fajny telefon w przystępnej cenie.",
+        "pros": [
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [
+            "czas pracy na baterii"
+        ],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2021-02-16 12:08:58",
+        "purchaseDate": "2021-02-05 13:17:16",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13963612"
+    },
+    {
+        "author": "k...a",
+        "rcmd": null,
+        "stars": "3,5/5",
+        "content": "Jeszcze muszę podziałać",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-05-28 09:53:58",
+        "purchaseDate": "2020-05-25 09:10:34",
+        "useful": "0",
+        "useless": "4",
+        "opinionId": "12536598"
+    },
+    {
+        "author": "z...n",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Super jakość w stosunku do ceny .",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2021-02-01 12:13:25",
+        "purchaseDate": "2021-01-12 16:14:43",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13874822"
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Warty polecenia telefon, dobra jakość w dobrej cenie",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-03-09 11:26:11",
+        "purchaseDate": "2020-03-04 17:05:47",
+        "useful": "0",
+        "useless": "2",
+        "opinionId": "11871950"
+    },
+    {
+        "author": "g...1",
+        "rcmd": "Polecam",
+        "stars": "4,5/5",
+        "content": "Wszystko ok",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-05-21 11:58:29",
+        "purchaseDate": "2020-05-12 18:00:14",
+        "useful": "0",
+        "useless": "3",
+        "opinionId": "12485708"
+    },
+    {
+        "author": "s...7",
+        "rcmd": "Polecam",
+        "stars": "4,5/5",
+        "content": "Zgodny z opisem - sprawdzi się dopiero w trakcie użytkowania.",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-05-20 12:33:41",
+        "purchaseDate": "2020-05-02 14:37:29",
+        "useful": "0",
+        "useless": "3",
+        "opinionId": "12470583"
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Prosty w obsłudze super aparat",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-04-09 11:14:50",
+        "purchaseDate": "2020-03-31 20:42:21",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12104681"
+    },
+    {
+        "author": "j...1",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Wspaniały. Zgodny z moimi oczekiwaniami",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-12-06 20:46:26",
+        "purchaseDate": "2020-11-22 12:24:09",
+        "useful": "0",
+        "useless": "1",
+        "opinionId": "13515834"
+    },
+    {
+        "author": "k...1",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "wszystko jest dobre i szybkie",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-11-20 10:27:04",
+        "purchaseDate": "2020-11-11 11:11:10",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13415066"
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Dobry produkt w dobrej cenie",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-03-23 16:19:33",
+        "purchaseDate": "2020-02-13 14:30:16",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "11965059"
+    },
+    {
+        "author": "j...3",
+        "rcmd": null,
+        "stars": "3,5/5",
+        "content": "telefon funkcjonalny , ładny",
+        "pros": [
+            "czas pracy na baterii",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2021-04-21 12:19:39",
+        "purchaseDate": "2021-04-17 18:31:20",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "14329866"
+    },
+    {
+        "author": "m...5",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Dobry telefon za dobra cenę.",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-06-23 19:12:02",
+        "purchaseDate": "2020-06-18 10:13:43",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12699039"
+    },
+    {
+        "author": "a...i",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "na tą chwile wszystko super",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-06-23 09:44:32",
+        "purchaseDate": "2020-06-18 12:27:49",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12695612"
+    },
+    {
+        "author": "a...i",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "W trakcie testowania. Wygląd jest ok.",
+        "pros": [
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [
+            "czas pracy na baterii"
+        ],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-06-15 12:06:31",
+        "purchaseDate": "2020-06-08 12:06:01",
+        "useful": "1",
+        "useless": "2",
+        "opinionId": "12648425"
+    },
+    {
+        "author": "a...k",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "WSZYSTKO OK ZGODNIEZ OPISEM",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-12-28 18:27:07",
+        "purchaseDate": "2020-12-23 00:09:00",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13663452"
+    },
+    {
+        "author": "k...2",
+        "rcmd": "Polecam",
+        "stars": "4,5/5",
+        "content": "Wykonanie ok działa dobrze",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-07-17 13:19:09",
+        "purchaseDate": "2020-07-11 08:27:52",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12819326"
+    },
+    {
+        "author": "g...5",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Produkt godny polecenia.",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-12-09 22:09:58",
+        "purchaseDate": "2020-11-21 20:58:57",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13542848"
+    },
+    {
+        "author": "i...6",
+        "rcmd": "Polecam",
+        "stars": "4,5/5",
+        "content": "Spełnia moje oczekiwania",
+        "pros": [
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-08-03 23:09:30",
+        "purchaseDate": "2020-06-04 14:41:13",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12895103"
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Produkt spelnil moje oczekiwania",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-04-30 05:43:37",
+        "purchaseDate": "2020-04-13 15:56:27",
+        "useful": "0",
+        "useless": "1",
+        "opinionId": "12296668"
+    },
+    {
+        "author": "a...1",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Towar zgodny z opisem,",
+        "pros": [
+            "funkcjonalność",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-11-10 21:55:11",
+        "purchaseDate": "2020-10-17 14:33:03",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13356472"
+    },
+    {
+        "author": "m...5",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Towar zgodny z opisem.",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-06-18 14:14:52",
+        "purchaseDate": "2020-06-15 11:12:27",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12674778"
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Towar zgodny z opisem.",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-04-14 12:05:09",
+        "purchaseDate": "2020-04-02 10:33:04",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12138177"
+    },
+    {
+        "author": "e...a",
+        "rcmd": "Polecam",
+        "stars": "4,5/5",
+        "content": "Córka jest zadowolona",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2021-02-16 11:12:37",
+        "purchaseDate": "2021-01-21 19:55:19",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13962946"
+    },
+    {
+        "author": "l...h",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Bardzo fajny telefon",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2021-04-27 17:25:04",
+        "purchaseDate": "2021-04-24 07:01:44",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "14366573"
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "To czego oczekiwałem",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-05-12 17:50:50",
+        "purchaseDate": "2020-04-22 08:00:11",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "12405481"
+    },
+    {
+        "author": "p...r",
+        "rcmd": "Polecam",
+        "stars": "4/5",
+        "content": "Ok, solidne telefon",
+        "pros": [],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2021-04-05 21:12:29",
+        "purchaseDate": "2021-03-11 22:23:25",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "14232723"
+    },
+    {
+        "author": "j...s",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "very happy about it",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2021-03-31 09:23:31",
+        "purchaseDate": "2021-03-19 12:58:00",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "14207552"
+    },
+    {
+        "author": "b...k",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "ładnie robi zdjęcia",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2021-01-23 13:36:08",
+        "purchaseDate": "2021-01-12 16:10:08",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13826804"
+    },
+    {
+        "author": "b...r",
+        "rcmd": "Polecam",
+        "stars": "5/5",
+        "content": "Świetny telefonik.",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "purchased": "Opinia potwierdzona zakupem",
+        "publishDate": "2020-11-28 12:36:26",
+        "purchaseDate": "2020-11-20 15:50:16",
+        "useful": "0",
+        "useless": "0",
+        "opinionId": "13465313"
     }
 ]
